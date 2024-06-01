@@ -1,7 +1,5 @@
 # JSP & Servlet-Project : 놀랭
 
-## 대문
-![메인이미지](Uploading image.png…)
 
 
 JSP + Servlet을 활용한 데이트코스 및 명소 추천 커뮤니티 사이트
